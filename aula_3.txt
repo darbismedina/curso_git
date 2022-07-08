@@ -1,0 +1,138 @@
+    1  ls
+    2  ls-a
+    3  ls-a
+    4  git config --global user.name "Darbis Medina"
+    5  git config --global user.email 'darbisjose.medinaadames974@gmail.com'
+    6  git cofig user.name
+    7  git config user. name 
+    8  git config user.name
+    9  cd Desktop/
+   10  mkdir curso_git toti
+   11  cd curso_git toti
+   12  cd curso_git
+   13  git config user.name
+   14  git init
+   15  git status
+   16  clear
+   17  clear
+   18  ls
+   19  mkdir turma 19
+   20  mv 19
+   21  rm -r 19
+   22  cd
+   23  ls
+   24  clear
+   25  cd Desktop
+   26  cd cruso_git
+   27  cd curso_git
+   28  cd turma
+   29  echo 'meu primeiro codigo' >olamundo.txt
+   30  echo '#darbis' >> olamundo.txt
+   31  echo 'darbis medina' >> Dj.txt
+   32  echo 'Cuando el personal de un equipo de trabajo
+   33  suele buscar defectos en los demás, la situación se
+   34  vuelve tensa y negativa. En cambio, al tratar
+   35  con sinceridad de percibir los puntos fuertes de
+   36  los demás, florecen los mejores logros. Es fácil
+   37  encontrar defectos —cualquier necio puede
+   38  hacerlo—, pero encontrar cualidades es una
+   39  labor para los espíritus superiores que son
+   40  capaces de inspirar el éxito de los demás.' texto.txt
+   41  echo 'Cuando el personal de un equipo de trabajo
+   42  suele buscar defectos en los demás, la situación se
+   43  vuelve tensa y negativa. En cambio, al tratar
+   44  con sinceridad de percibir los puntos fuertes de
+   45  los demás, florecen los mejores logros. Es fácil
+   46  encontrar defectos —cualquier necio puede
+   47  hacerlo—, pero encontrar cualidades es una
+   48  labor para los espíritus superiores que son
+   49  capaces de inspirar el éxito de los demás.' >> texto.txt
+   50  echo 'karely y emanuel' >> Dj.txt
+   51  rm -r Dj
+   52  rm -r Dj.txt
+   53  rm -rolamundo.txt
+   54  rm - r olamundo.txt
+   55  rm -r olamundo.txt
+   56  rm -r teste.txt
+   57  rm -r texto.txt
+   58  cd turma
+   59  bash: cd: turma: No such file or directory
+   60  cd
+   61  rm -r turma 
+   62  cd Desktop
+   63  cd curso_git
+   64  rm -r turma
+   65  rm turma 
+   66  rm -r turma
+   67  cd..
+   68  cd..
+   69  cd.
+   70  cd
+   71  cd Desktop
+   72  rm -r turma
+   73  cd curso_git
+   74  rm -r turma.
+   75  cd
+   76  clear
+   77  ls
+   78  cd Desktop
+   79  cd curso_git
+   80  cd turma
+   81  clear
+   82  git user.name
+   83  clear
+   84  history
+   85  git config user.name
+   86  clear
+   87  git clone https://github.com/hilarysantos/Exemplo.git
+   88  ls
+   89  cd darbis
+   90  cd Darbis
+   91  cd Exemplo
+   92  cd turma19
+   93  git checkout -b Darbis
+   94  ls
+   95  echo 'Ola a todos sou darbis' >> Welcome.txt
+   96  git add .
+   97  git commit -m 'meu primero commit'
+   98  git push 
+   99  user.name@
+  100  user.name@
+  101   git push --set-upstream origin Darbis
+  102  git status
+  103  ls
+  104  echo 'darbis' >> welcome.txt
+  105  git add .
+  106  git commit -m " meu primero commit"
+  107  git push
+  108   git push --set-upstream origin Darbis
+  109   git push --set-upstream origin Darbis
+  110  history 
+  111  git status
+  112  clear
+  113  git config user.name
+  114   cd Desktop
+  115  cd curso_git
+  116  git status
+  117  echo 'Meu primeiro arquivo no git'redme.md
+  118  rm -r redme.md
+  119  echo 'meu primero arquivo no git'txt
+  120  ls
+  121  ls
+  122  git status
+  123  echo 'meu primeriro arquivo'> redme.md
+  124  git status
+  125  echo 'segundo arquivo git' >emanuel.txt
+  126  git sttus
+  127  git status
+  128  echo 'terceiro arquivo no git'> prueba.md
+  129  git status
+  130  git add emanuel
+  131  git add emanuel.txt
+  132  git status
+  133  git add.
+  134  git add .
+  135  git status
+  136  git commit -m 'commit inicial'
+  137  git status
+  138  history > aula_3.txt
